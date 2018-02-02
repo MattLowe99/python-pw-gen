@@ -20,7 +20,7 @@ For example:
 > $ ./xkcdpwgen.py -c 2 -n 4
 > memberChest7Proposal058committee
 ```
-Generates a random 4-word long password with 2 words randomly capitalized and 4 numbers randomly interwoven in
+Generates a random 4-word long password with 2 words randomly capitalized and 4 numbers randomly interwoven in.
 
 Some more examples:
 ```
