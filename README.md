@@ -36,7 +36,7 @@ Some more examples:
 You get the idea.
 
 ### Current Task List
-- [ ] Add more words to word list (likely to be replaced by a 1 million+ list)
+- [x] ~~Add more words to word list (likely to be replaced by a 1 million+ list)~~
 - [ ] Add option for other languages (currently Spanish, French, Italian to be added)
 - [ ] Add option for user uploaded wordlist
 - [ ] Add option for user decided number range
