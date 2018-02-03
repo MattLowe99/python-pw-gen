@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-#Wordlist sampled from http://www.talkenglish.com/vocabulary/top-1500-nouns.aspx
+#Wordlist sampled from http://www.mieliestronk.com/corncob_lowercase.txt
 
 import random
 import argparse
